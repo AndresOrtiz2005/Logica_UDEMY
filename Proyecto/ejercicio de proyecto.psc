@@ -1,8 +1,8 @@
 Proceso OrdenamientoPorConteoDeLosNumeros
 	Dimension numeros[10]
-	Escribir "Ingresa 10 números (de 1 a 9) para ordenar con el método de conteo: "
+	Escribir "Ingresa 10 nÃºmeros (de 1 a 9) para ordenar con el mÃ©todo de conteo: "
 	Para i <- 1 Hasta 10 Hacer
-		Escribir "Número ", i, ": "
+		Escribir "NÃºmero ", i, ": "
 		Leer numeros[i]
 	Fin Para
 	
